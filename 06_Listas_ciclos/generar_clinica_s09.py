@@ -57,6 +57,7 @@ ENFERMEDADES = [
     "ansiedad generalizada",
     "lupus",
     "esclerosis múltiple",
+    "hambre emocional",
 ]
 
 MEDICAMENTOS = [
@@ -217,6 +218,8 @@ NOMBRES_M = [
     "Gerardo",
     "Arturo",
     "Raúl",
+    "Kevin",
+    "Dereck",
 ]
 NOMBRES_F = [
     "María",
@@ -254,6 +257,7 @@ NOMBRES_F = [
     "Vanessa",
     "Rebeca",
     "Yolanda",
+    "Monica",
 ]
 APELLIDOS = [
     "González",
